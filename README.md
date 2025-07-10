@@ -20,6 +20,7 @@ Download and install from the official Node.js site:
 🔗 [https://nodejs.org](https://nodejs.org)
 
 After installation, verify:
+
 node -v
 
 npm -v
