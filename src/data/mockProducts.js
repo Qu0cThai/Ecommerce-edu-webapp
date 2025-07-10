@@ -64,7 +64,7 @@ export const mockProducts = [
         name: "Khóa học C# cơ bản",
         price: 1000000,
         image: "/csharplogo.jpg",
-        largeImg: "/csharplogo.png",
+        largeImg: "/csharp.png",
         shortDesc: "Học lập trình C# từ đầu",
         subject: "Lập trình",
         level: "Cơ bản"
