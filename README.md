@@ -21,11 +21,13 @@ Download and install from the official Node.js site:
 
 After installation, verify:
 node -v
+
 npm -v
 
 ### 2. Install Vue CLI (optional but helpful)
 
 npm install -g @vue/cli
+
 vue --version
 
 ## Project Setup
